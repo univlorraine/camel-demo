@@ -173,7 +173,7 @@ Cette classe servira de base aux exercices.
 ### Cloner le repository
 
 ```ssh
-git clone git@github.com:smattsck/camel-demo.git
+git clone git@github.com:univlorraine/camel-demo.git
 ```
 
 ### Démarrer l'application
