@@ -2,7 +2,7 @@
 Par Matthieu Manginot
 
 ## Apache Camel
-[Apache Camel](http://camel.apache.org/) est un framework Java d'intégration qui peut être apparenté à un ESB (Enterprise Service Bus) léger,
+[Apache Camel](https://github.com/apache/camel/blob/master/README.md) est un framework Java d'intégration qui peut être apparenté à un ESB (Enterprise Service Bus) léger,
 il fourni des implémentations des EIP (Enterprise Integration Patterns), qui basés sur la notion de couplage faible,
 permettent de réaliser des tâches telles que : la transformation, l'enrichissement ou l'aggrégation de données 
 ou en encore le routage de messages/données entre applications.
