@@ -206,7 +206,7 @@ c. Utiliser un *processor* Java à la place du composant *log* pour logger l'*ex
 
 Vous pouvez vous servir du processor `fr/cameldemo/processors/Ex1Processor.java`.
 
-##Exercice 2 : Fichier
+## Exercice 2 : Fichier
 
 ### Déplacement d'un fichier
 
