@@ -29,7 +29,7 @@ Apache Camel fourni de nombreux composants pour la réalisation de ces EIP, exem
 * Routage de messages : activemq-camel, camel-jms, ...
 * Web Services : spring-ws, CXF, [Rest](http://camel.apache.org/rest-dsl.html), ...
 
-[Liste complète des composants Camel.](https://camel.apache.org/components.html)
+[Liste complète des composants Camel.](https://github.com/apache/camel/blob/master/components/readme.adoc)
 
 La documentation sur le site web est très complète et il y a une bonne communauté. Il existe également un livre écrit par les développeurs de Camel *"Camel In Action, Second Edition"* by Claus Ibsen and Jonathan Anstey.
 
